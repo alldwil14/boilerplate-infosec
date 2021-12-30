@@ -1,2 +1,2 @@
 # boilerplate-infosec
-Aboilerplate for the freeCodeCamp curriculum
+A boilerplate for the freeCodeCamp curriculum
